@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankSystem", "BankSystem\BankSystem.csproj", "{6422632B-53F5-46CD-B611-8BBCA8A48BA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankSystem.Tests", "BankSystem.Tests\BankSystem.Tests.csproj", "{A76ECC6D-156C-424C-95EE-669BC0DD06FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankWebsite", "BankWebsite\BankWebsite.csproj", "{E8605AB2-2589-402C-82DA-2C133AB8B838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6422632B-53F5-46CD-B611-8BBCA8A48BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6422632B-53F5-46CD-B611-8BBCA8A48BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6422632B-53F5-46CD-B611-8BBCA8A48BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6422632B-53F5-46CD-B611-8BBCA8A48BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A76ECC6D-156C-424C-95EE-669BC0DD06FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76ECC6D-156C-424C-95EE-669BC0DD06FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76ECC6D-156C-424C-95EE-669BC0DD06FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76ECC6D-156C-424C-95EE-669BC0DD06FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8605AB2-2589-402C-82DA-2C133AB8B838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8605AB2-2589-402C-82DA-2C133AB8B838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8605AB2-2589-402C-82DA-2C133AB8B838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8605AB2-2589-402C-82DA-2C133AB8B838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
